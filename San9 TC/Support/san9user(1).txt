@@ -1,0 +1,303 @@
+Sangokushi9 System Check
+
+  6.2  (Build 9200)
+Memory : 2047M
+CPU : Pentium
+GenuineIntel
+Unknown
+MMX available
+SSE available
+SSE2 available
+family 06 model c stepping 3 
+3403.481 MHz 
+
+DisplaySettings
+     640亊 480 True Color(32bit)
+     640亊 480 True Color(32bit)
+     640亊 480 True Color(32bit)
+     720亊 480 True Color(32bit)
+     720亊 480 True Color(32bit)
+     720亊 480 True Color(32bit)
+     720亊 480 True Color(32bit)
+     720亊 480 True Color(32bit)
+     720亊 480 True Color(32bit)
+     720亊 480 True Color(32bit)
+     720亊 480 True Color(32bit)
+     720亊 480 True Color(32bit)
+     720亊 480 True Color(32bit)
+     720亊 480 True Color(32bit)
+     720亊 480 True Color(32bit)
+     720亊 576 True Color(32bit)
+     720亊 576 True Color(32bit)
+     720亊 576 True Color(32bit)
+     720亊 576 True Color(32bit)
+     720亊 576 True Color(32bit)
+     720亊 576 True Color(32bit)
+     720亊 576 True Color(32bit)
+     720亊 576 True Color(32bit)
+     720亊 576 True Color(32bit)
+     720亊 576 True Color(32bit)
+     720亊 576 True Color(32bit)
+     720亊 576 True Color(32bit)
+     800亊 600 True Color(32bit)
+     800亊 600 True Color(32bit)
+     800亊 600 True Color(32bit)
+     800亊 600 True Color(32bit)
+    1024亊 768 True Color(32bit)
+    1024亊 768 True Color(32bit)
+    1024亊 768 True Color(32bit)
+    1152亊 864 True Color(32bit)
+    1152亊 864 True Color(32bit)
+    1152亊 864 True Color(32bit)
+    1280亊 720 True Color(32bit)
+    1280亊 768 True Color(32bit)
+    1280亊 768 True Color(32bit)
+    1280亊 768 True Color(32bit)
+    1280亊 800 True Color(32bit)
+    1280亊 800 True Color(32bit)
+    1280亊 800 True Color(32bit)
+    1280亊 960 True Color(32bit)
+    1280亊1024 True Color(32bit)
+    1280亊1024 True Color(32bit)
+    1360亊 768 True Color(32bit)
+    1360亊 768 True Color(32bit)
+    1360亊 768 True Color(32bit)
+    1366亊 768 True Color(32bit)
+    1366亊 768 True Color(32bit)
+    1366亊 768 True Color(32bit)
+    1600亊 900 True Color(32bit)
+    1600亊 900 True Color(32bit)
+    1600亊 900 True Color(32bit)
+    1600亊 900 True Color(32bit)
+    1600亊 900 True Color(32bit)
+    1600亊 900 True Color(32bit)
+    1600亊1024 True Color(32bit)
+    1600亊1024 True Color(32bit)
+    1600亊1024 True Color(32bit)
+    1600亊1024 True Color(32bit)
+    1600亊1024 True Color(32bit)
+    1600亊1024 True Color(32bit)
+    1680亊1050 True Color(32bit)
+    1680亊1050 True Color(32bit)
+=>  1920亊1080 True Color(32bit)
+    1440亊 900 True Color(32bit)
+     640亊 480 High Color
+     640亊 480 High Color
+     640亊 480 High Color
+     720亊 480 High Color
+     720亊 480 High Color
+     720亊 480 High Color
+     720亊 480 High Color
+     720亊 480 High Color
+     720亊 480 High Color
+     720亊 480 High Color
+     720亊 480 High Color
+     720亊 480 High Color
+     720亊 480 High Color
+     720亊 480 High Color
+     720亊 480 High Color
+     720亊 576 High Color
+     720亊 576 High Color
+     720亊 576 High Color
+     720亊 576 High Color
+     720亊 576 High Color
+     720亊 576 High Color
+     720亊 576 High Color
+     720亊 576 High Color
+     720亊 576 High Color
+     720亊 576 High Color
+     720亊 576 High Color
+     720亊 576 High Color
+     800亊 600 High Color
+     800亊 600 High Color
+     800亊 600 High Color
+     800亊 600 High Color
+    1024亊 768 High Color
+    1024亊 768 High Color
+    1024亊 768 High Color
+    1152亊 864 High Color
+    1152亊 864 High Color
+    1152亊 864 High Color
+    1280亊 720 High Color
+    1280亊 768 High Color
+    1280亊 768 High Color
+    1280亊 768 High Color
+    1280亊 800 High Color
+    1280亊 800 High Color
+    1280亊 800 High Color
+    1280亊 960 High Color
+    1280亊1024 High Color
+    1280亊1024 High Color
+    1360亊 768 High Color
+    1360亊 768 High Color
+    1360亊 768 High Color
+    1366亊 768 High Color
+    1366亊 768 High Color
+    1366亊 768 High Color
+    1600亊 900 High Color
+    1600亊 900 High Color
+    1600亊 900 High Color
+    1600亊 900 High Color
+    1600亊 900 High Color
+    1600亊 900 High Color
+    1600亊1024 High Color
+    1600亊1024 High Color
+    1600亊1024 High Color
+    1600亊1024 High Color
+    1600亊1024 High Color
+    1600亊1024 High Color
+    1680亊1050 High Color
+    1680亊1050 High Color
+    1920亊1080 High Color
+    1440亊 900 High Color
+     640亊 480 256 Color
+     640亊 480 256 Color
+     640亊 480 256 Color
+     720亊 480 256 Color
+     720亊 480 256 Color
+     720亊 480 256 Color
+     720亊 480 256 Color
+     720亊 480 256 Color
+     720亊 480 256 Color
+     720亊 480 256 Color
+     720亊 480 256 Color
+     720亊 480 256 Color
+     720亊 480 256 Color
+     720亊 480 256 Color
+     720亊 480 256 Color
+     720亊 576 256 Color
+     720亊 576 256 Color
+     720亊 576 256 Color
+     720亊 576 256 Color
+     720亊 576 256 Color
+     720亊 576 256 Color
+     720亊 576 256 Color
+     720亊 576 256 Color
+     720亊 576 256 Color
+     720亊 576 256 Color
+     720亊 576 256 Color
+     720亊 576 256 Color
+     800亊 600 256 Color
+     800亊 600 256 Color
+     800亊 600 256 Color
+     800亊 600 256 Color
+    1024亊 768 256 Color
+    1024亊 768 256 Color
+    1024亊 768 256 Color
+    1152亊 864 256 Color
+    1152亊 864 256 Color
+    1152亊 864 256 Color
+    1280亊 720 256 Color
+    1280亊 768 256 Color
+    1280亊 768 256 Color
+    1280亊 768 256 Color
+    1280亊 800 256 Color
+    1280亊 800 256 Color
+    1280亊 800 256 Color
+    1280亊 960 256 Color
+    1280亊1024 256 Color
+    1280亊1024 256 Color
+    1360亊 768 256 Color
+    1360亊 768 256 Color
+    1360亊 768 256 Color
+    1366亊 768 256 Color
+    1366亊 768 256 Color
+    1366亊 768 256 Color
+    1600亊 900 256 Color
+    1600亊 900 256 Color
+    1600亊 900 256 Color
+    1600亊 900 256 Color
+    1600亊 900 256 Color
+    1600亊 900 256 Color
+    1600亊1024 256 Color
+    1600亊1024 256 Color
+    1600亊1024 256 Color
+    1600亊1024 256 Color
+    1600亊1024 256 Color
+    1600亊1024 256 Color
+    1680亊1050 256 Color
+    1680亊1050 256 Color
+    1920亊1080 256 Color
+    1440亊 900 256 Color
+
+ KERNEL32.DLL : Version 10.0.18362.1110
+ SHELL32.DLL : Version 10.0.18362.1110
+ COMCTL32.DLL : Version 5.82.18362.1139
+ DDRAW.DLL : Version 10.0.18362.1049
+ D3D8.DLL : Version 10.0.18362.356
+ D3D9.DLL : Version 10.0.18362.1110
+ DSOUND.DLL : Version 10.0.18362.1
+ KOEILW.DLL : FileVersionInfoSize is Empty.
+ KDVDDSND.DLL : FileVersionInfoSize is Empty.
+
+registry infomation 
+:ACPI丗@acpi.inf,%*pnp0c08.devicedesc%;Microsoft ACPI-Compliant System: : Microsoft :Date 6-21-2006 Ver 10.0.18362.1110: @acpi.inf,%msft%;Microsoft
+:BasicDisplay丗@basicdisplay.inf,%msbddfallbackname%;Microsoft Basic Display Driver: : Microsoft :Date 6-21-2006 Ver 10.0.18362.329: @basicdisplay.inf,%std%;(Standard display types)
+:BasicRender丗@basicrender.inf,%basicrender%;Microsoft Basic Render Driver: : Microsoft :Date 6-21-2006 Ver 10.0.18362.329: @basicrender.inf,%ms%;Microsoft
+:CompositeBus丗@compositebus.inf,%compositebus.devicedesc%;Composite Bus Enumerator: : Microsoft :Date 6-21-2006 Ver 10.0.18362.329: @compositebus.inf,%msft%;Microsoft
+:disk丗@disk.inf,%disk_devdesc%;Disk drive: ST500DM002-1BD142: Microsoft :Date 6-21-2006 Ver 10.0.18362.1: @disk.inf,%genmanufacturer%;(Standard disk drives)
+:disk丗@disk.inf,%disk_devdesc%;Disk drive: SanDisk SDSSDA120G: Microsoft :Date 6-21-2006 Ver 10.0.18362.1: @disk.inf,%genmanufacturer%;(Standard disk drives)
+:disk丗@disk.inf,%disk_devdesc%;Disk drive: Lexar SSD: Microsoft :Date 6-21-2006 Ver 10.0.18362.1: @disk.inf,%genmanufacturer%;(Standard disk drives)
+:volume丗@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.18362.1: @volume.inf,%msft%;Microsoft
+:volume丗@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.18362.1: @volume.inf,%msft%;Microsoft
+:volume丗@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.18362.1: @volume.inf,%msft%;Microsoft
+:volume丗@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.18362.1: @volume.inf,%msft%;Microsoft
+:volume丗@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.18362.1: @volume.inf,%msft%;Microsoft
+:volume丗@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.18362.1: @volume.inf,%msft%;Microsoft
+:volume丗@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.18362.1: @volume.inf,%msft%;Microsoft
+:volume丗@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.18362.1: @volume.inf,%msft%;Microsoft
+:HDAudBus丗@hdaudbus.inf,%hdaudio.devicedesc%;High Definition Audio Controller: : Microsoft :Date 2-20-2020 Ver 10.0.18362.693: @hdaudbus.inf,%msft%;Microsoft
+:HDAudBus丗@hdaudbus.inf,%hdaudio.devicedesc%;High Definition Audio Controller: : Microsoft :Date 2-20-2020 Ver 10.0.18362.693: @hdaudbus.inf,%msft%;Microsoft
+:HidUsb丗@input.inf,%hid.devicedesc%;USB Input Device: : Microsoft :Date 6-21-2006 Ver 10.0.18362.175: @input.inf,%stdmfg%;(Standard system devices)
+:i8042prt丗@keyboard.inf,%*pnp0303.devicedesc%;Standard PS/2 Keyboard: : Microsoft :Date 6-21-2006 Ver 10.0.18362.1: @keyboard.inf,%std-keyboards%;(Standard keyboards)
+:intelppm丗@cpu.inf,%intelppm.devicedesc%;Intel Processor: Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz: Microsoft :Date 4-21-2009 Ver 10.0.18362.1049: @cpu.inf,%intel%;Intel
+:intelppm丗@cpu.inf,%intelppm.devicedesc%;Intel Processor: Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz: Microsoft :Date 4-21-2009 Ver 10.0.18362.1049: @cpu.inf,%intel%;Intel
+:intelppm丗@cpu.inf,%intelppm.devicedesc%;Intel Processor: Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz: Microsoft :Date 4-21-2009 Ver 10.0.18362.1049: @cpu.inf,%intel%;Intel
+:intelppm丗@cpu.inf,%intelppm.devicedesc%;Intel Processor: Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz: Microsoft :Date 4-21-2009 Ver 10.0.18362.1049: @cpu.inf,%intel%;Intel
+:intelppm丗@cpu.inf,%intelppm.devicedesc%;Intel Processor: Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz: Microsoft :Date 4-21-2009 Ver 10.0.18362.1049: @cpu.inf,%intel%;Intel
+:intelppm丗@cpu.inf,%intelppm.devicedesc%;Intel Processor: Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz: Microsoft :Date 4-21-2009 Ver 10.0.18362.1049: @cpu.inf,%intel%;Intel
+:intelppm丗@cpu.inf,%intelppm.devicedesc%;Intel Processor: Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz: Microsoft :Date 4-21-2009 Ver 10.0.18362.1049: @cpu.inf,%intel%;Intel
+:intelppm丗@cpu.inf,%intelppm.devicedesc%;Intel Processor: Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz: Microsoft :Date 4-21-2009 Ver 10.0.18362.1049: @cpu.inf,%intel%;Intel
+:kdnic丗@kdnic.inf,%kdnic.devicedesc%;Microsoft Kernel Debug Network Adapter: Microsoft Kernel Debug Network Adapter: Microsoft :Date 6-21-2006 Ver 10.0.18362.1: @kdnic.inf,%msft%;Microsoft
+:NVHDA丗@oem4.inf,%nvidia.devicedesc%;NVIDIA High Definition Audio: : NVIDIA Corporation :Date 7-24-2019 Ver 1.3.38.16: @oem4.inf,%mfgname%;Microsoft
+:IntcAzAudAddService丗Realtek High Definition Audio: : Realtek Semiconductor Corp. :Date 6-3-2016 Ver 6.0.1.7841: @oem2.inf,%mfgname%;Realtek
+:usbscan丗@oem16.inf,%m1005.devicedesc%;HP LaserJet M1005 MFP: : Hewlett-Packard, Inc. :Date 4-1-2013 Ver 1.0.2.1941: @oem16.inf,%mfg%;Hewlett-Packard, Inc.
+:MEIx64丗@oem8.inf,%tee_devicedesc%;Intel(R) Management Engine Interface : : Intel :Date 10-3-2017 Ver 11.7.0.1045: @oem8.inf,%mfgname%;Intel
+:msisadrv丗@oem6.inf,%pci\ven_8086&dev_8c5cdesc%;Intel(R) H81 LPC Controller - 8C5C: : INTEL :Date 10-3-2016 Ver 10.1.1.38: @oem6.inf,%intel%;INTEL
+:NdisWan丗@netrasa.inf,%mp-ip-dispname%;WAN Miniport (IP): WAN Miniport (IP): Microsoft :Date 6-21-2006 Ver 10.0.18362.1: @netrasa.inf,%msft%;Microsoft
+:NdisWan丗@netrasa.inf,%mp-ipv6-dispname%;WAN Miniport (IPv6): WAN Miniport (IPv6): Microsoft :Date 6-21-2006 Ver 10.0.18362.1: @netrasa.inf,%msft%;Microsoft
+:NdisWan丗@netrasa.inf,%mp-bh-dispname%;WAN Miniport (Network Monitor): WAN Miniport (Network Monitor): Microsoft :Date 6-21-2006 Ver 10.0.18362.1: @netrasa.inf,%msft%;Microsoft
+:nvlddmkm丗@oem3.inf,%nvidia_dev.0fc8%;NVIDIA GeForce GT 740: : NVIDIA :Date 7-24-2019 Ver 26.21.14.3200: @oem3.inf,%nvidia_a%;NVIDIA
+:Parport丗@msports.inf,%*pnp0400.devicedesc%;打印机端口: 打印机端口 (LPT1): Microsoft :Date 6-21-2006 Ver 10.0.18362.1: @msports.inf,%std%;(标准端口类型)
+:disk丗@disk.inf,%disk_devdesc%;Disk drive: ST500DM002-1BD142: Microsoft :Date 6-21-2006 Ver 10.0.18362.1: @disk.inf,%genmanufacturer%;(Standard disk drives)
+:disk丗@disk.inf,%disk_devdesc%;Disk drive: SanDisk SDSSDA120G: Microsoft :Date 6-21-2006 Ver 10.0.18362.1: @disk.inf,%genmanufacturer%;(Standard disk drives)
+:disk丗@disk.inf,%disk_devdesc%;Disk drive: Lexar SSD: Microsoft :Date 6-21-2006 Ver 10.0.18362.1: @disk.inf,%genmanufacturer%;(Standard disk drives)
+:pci丗@pci.inf,%*pnp0a08.devicedesc%;PCI Express Root Complex: : Microsoft :Date 6-21-2006 Ver 10.0.18362.1110: @pci.inf,%gendev_mfg%;(Standard system devices)
+:pci丗@pci.inf,%pci\cc_0604.devicedesc%;PCI-to-PCI Bridge: : Microsoft :Date 6-21-2006 Ver 10.0.18362.1110: @pci.inf,%gendev_mfg%;(Standard system devices)
+:pci丗@oem6.inf,%pci\ven_8086&dev_8c10desc%;Intel(R) 8 Series/C220 Series PCI Express Root Port #1 - 8C10: : INTEL :Date 10-3-2016 Ver 10.1.1.38: @oem6.inf,%intel%;INTEL
+:pci丗@oem6.inf,%pci\ven_8086&dev_8c14desc%;Intel(R) 8 Series/C220 Series PCI Express Root Port #3 - 8C14: : INTEL :Date 10-3-2016 Ver 10.1.1.38: @oem6.inf,%intel%;INTEL
+:rt640x64丗@rt640x64.inf,%rtl8168.devicedesc%;Realtek PCIe GbE Family Controller: Realtek PCIe GbE Family Controller: Realtek :Date 4-9-2015 Ver 9.1.409.2015: @rt640x64.inf,%realtek%;Realtek
+:Serial丗@msports.inf,%*pnp0501.devicedesc%;通信端口: 通信端口 (COM1): Microsoft :Date 6-21-2006 Ver 10.0.18362.1: @msports.inf,%std%;(标准端口类型)
+:Serial丗@msports.inf,%*pnp0501.devicedesc%;通信端口: 通信端口 (COM1): Microsoft :Date 6-21-2006 Ver 10.0.18362.1: @msports.inf,%std%;(标准端口类型)
+:spaceport丗@spaceport.inf,%spaceport_devicedesc%;Microsoft Storage Spaces Controller: : Microsoft :Date 6-21-2006 Ver 10.0.18362.959: @spaceport.inf,%msft%;Microsoft
+:storahci丗@mshdc.inf,%pci\cc_010601.devicedesc%;Standard SATA AHCI Controller: : Microsoft :Date 6-21-2006 Ver 10.0.18362.1110: @mshdc.inf,%ms-ahci%;Standard SATA AHCI Controller
+:swenum丗@swenum.inf,%swenum.devicedesc%;Plug and Play Software Device Enumerator: : Microsoft :Date 8-27-2019 Ver 10.0.18362.329: @swenum.inf,%gendev_mfg%;(Standard system devices)
+:umbus丗@umbus.inf,%umbusroot.devicedesc%;UMBus Root Bus Enumerator: : Microsoft :Date 6-21-2006 Ver 10.0.18362.329: @umbus.inf,%ms%;Microsoft
+:usbccgp丗@usb.inf,%usb\composite.devicedesc%;USB Composite Device: : Microsoft :Date 6-21-2006 Ver 10.0.18362.1110: @usb.inf,%generic.mfg%;(Standard USB Host Controller)
+:usbehci丗@usbport.inf,%pci\ven_8086&dev_8c2d.devicedesc%;Intel(R) 8 Series/C220 Series USB EHCI #2 - 8C2D: : Microsoft :Date 6-21-2006 Ver 10.0.18362.1: @usbport.inf,%intel.mfg%;Intel
+:usbehci丗@usbport.inf,%pci\ven_8086&dev_8c26.devicedesc%;Intel(R) 8 Series/C220 Series USB EHCI #1 - 8C26: : Microsoft :Date 6-21-2006 Ver 10.0.18362.1: @usbport.inf,%intel.mfg%;Intel
+:usbhub丗@usbport.inf,%usb.roothub.devicedesc%;USB Root Hub: : Microsoft :Date 6-21-2006 Ver 10.0.18362.1: @usbport.inf,%generic.mfg%;(Standard USB Host Controller)
+:usbhub丗@usbport.inf,%usb.roothub.devicedesc%;USB Root Hub: : Microsoft :Date 6-21-2006 Ver 10.0.18362.1: @usbport.inf,%generic.mfg%;(Standard USB Host Controller)
+:usbhub丗@usb.inf,%usb.generichub.devicedesc%;Generic USB Hub: : Microsoft :Date 6-21-2006 Ver 10.0.18362.1110: @usb.inf,%generichub.mfg%;(Generic USB Hub)
+:usbhub丗@usb.inf,%usb.generichub.devicedesc%;Generic USB Hub: : Microsoft :Date 6-21-2006 Ver 10.0.18362.1110: @usb.inf,%generichub.mfg%;(Generic USB Hub)
+:USBHUB3丗@usbhub3.inf,%usbhub3.roothubdevicedesc%;USB Root Hub (USB 3.0): : Microsoft :Date 5-5-2020 Ver 10.0.18362.836: @usbhub3.inf,%generic.mfg%;(Standard USB HUBs)
+:usbprint丗@usbprint.inf,%usbprint.devicedesc%;USB Printing Support: : Microsoft :Date 6-21-2006 Ver 10.0.18362.1: @usbprint.inf,%msft%;Microsoft
+:usbscan丗@oem16.inf,%m1005.devicedesc%;HP LaserJet M1005 MFP: : Hewlett-Packard, Inc. :Date 4-1-2013 Ver 1.0.2.1941: @oem16.inf,%mfg%;Hewlett-Packard, Inc.
+:vdrvroot丗@vdrvroot.inf,%vdrvroot.devicedesc%;Microsoft Virtual Drive Enumerator: : Microsoft :Date 6-21-2006 Ver 10.0.18362.1: @vdrvroot.inf,%msft%;Microsoft
+:Vid丗@wvid.inf,%vid.devicedesc%;Microsoft Hyper-V Virtualization Infrastructure Driver: : Microsoft :Date 6-21-2006 Ver 10.0.18362.1049: @wvid.inf,%stdmfg%;Microsoft
+:vmci丗@oem13.inf,%loc.vmwarehostdevicedesc%;VMware VMCI Host Device: : VMware, Inc. :Date 5-25-2016 Ver 9.8.6.0: @oem13.inf,%loc.vmwaremanufacturer%;VMware, Inc.
+:VMnetAdapter丗@oem12.inf,%vmnetadapter1.devicedesc%;VMware Virtual Ethernet Adapter for VMnet1: VMware Virtual Ethernet Adapter for VMnet1: VMware, Inc. :Date 8-15-2017 Ver 14.0.0.0: @oem12.inf,%companyname%;VMware, Inc.
+:VMnetAdapter丗@oem12.inf,%vmnetadapter8.devicedesc%;VMware Virtual Ethernet Adapter for VMnet8: VMware Virtual Ethernet Adapter for VMnet8: VMware, Inc. :Date 8-15-2017 Ver 14.0.0.0: @oem12.inf,%companyname%;VMware, Inc.
+:volmgr丗@volmgr.inf,%volmgr.devicedesc%;Volume Manager: : Microsoft :Date 6-21-2006 Ver 10.0.18362.1139: @volmgr.inf,%msft%;Microsoft
+:WmiAcpi丗@wmiacpi.inf,%*pnp0c14.devicedesc%;Microsoft Windows Management Interface for ACPI: : Microsoft :Date 6-21-2006 Ver 10.0.18362.1: @wmiacpi.inf,%msft%;Microsoft
+:WUDFRd丗@oem7.inf,%devicename%;AMDA00 Interface: : ASUSTeK Computer Inc. :Date 3-17-2014 Ver 1.0.1.0: @oem7.inf,%manufacturername%;ASUSTeK Computer Inc.

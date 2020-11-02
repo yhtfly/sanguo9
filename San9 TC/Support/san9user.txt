@@ -9,7 +9,7 @@ MMX available
 SSE available
 SSE2 available
 family 06 model e stepping 9 
-2903.751 MHz 
+2901.902 MHz 
 
 DisplaySettings
      320Å~ 200 256 Color
